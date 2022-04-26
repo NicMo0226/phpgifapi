@@ -1,1 +1,2 @@
-# Front end API to search, show trending and Giphy Categories in PHP.
+# PHP GIPHY API
+Search, select categories and show trending Gifs.
